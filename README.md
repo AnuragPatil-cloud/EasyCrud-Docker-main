@@ -125,7 +125,7 @@ git clone https://github.com/AnuragPatil-cloud/EasyCRUD-Updated.git
 ```
 Move to backend directory
 ```bash
-cd EasyCRUD/backend/
+cd EasyCRUD-Updated/backend/
 ```
 
 ## Step 9: Configure Backend Application
