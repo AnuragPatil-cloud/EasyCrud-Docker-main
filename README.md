@@ -202,7 +202,7 @@ sudo usermod -aG docker ubuntu
 ## Step 8 – Clone Project Repository
 
 ```bash
-git clone https://github.com/AnuragPatil-cloud/EasyCRUD-Updated.git
+git clone https://github.com/AnuragPatil-cloud/EasyCRUD-Updated-main.git
 ```
 
 Navigate to backend directory:
