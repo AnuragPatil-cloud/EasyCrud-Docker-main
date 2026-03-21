@@ -423,6 +423,9 @@ The **EasyCRUD application UI** should now be accessible.
 - Docker-based deployment
 
 ---
+<img width="1920" height="960" alt="frontend-Easycrud-docker" src="https://github.com/user-attachments/assets/c08fc2eb-3d28-4c74-b717-6160c3070e15" />
+
+---
 
 # Author
 
